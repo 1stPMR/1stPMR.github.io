@@ -20,7 +20,7 @@
 }
 @media (min-aspect-ratio:16/9)
 {
-  .video-background_2
+  .video-background
   width: 100%;
   height: auto;
 }
