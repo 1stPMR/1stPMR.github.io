@@ -2,11 +2,7 @@
   margin: 0;
   padding: 0;
 }
-.header
-{
-  background: black(0,0,100,0.4)
-  height: 100vh;
-}
+
 .video-background
 {
   position: absolute;
