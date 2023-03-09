@@ -7,7 +7,7 @@
   background: black(0,0,100,0.4)
   height: 100vh;
 }
-.video-background_2
+.video-background
 {
   position: absolute;
   right: 0;
@@ -26,7 +26,7 @@
 }
 @media (max-aspect-ratio:16/9)
 {
-  .video-background_2
+  .video-background
   width: auto;
   height: 100%;
 }
